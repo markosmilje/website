@@ -1,7 +1,7 @@
 ---
 title: "Lekovitost"
 date: 2019-12-04T12:54:16+01:00
-draft: true
+draft: false
 ---
 
 # Ulje od smilja

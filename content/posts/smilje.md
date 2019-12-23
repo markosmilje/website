@@ -1,7 +1,7 @@
 ---
 title: "Sta je Smilje?"
 date: 2019-12-04T12:31:23+01:00
-draft: true
+draft: false
 description: "Ovo je opis koji treba da se pojavi negde."
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Recepti"
 date: 2019-12-04T13:19:32+01:00
-draft: true
+draft: false
 ---
 
 Ulje smilja mozete koristi na desitine razlicitih nacina za primenu na kozi, a mi vam donosimo par jednostvnih recepata za pocekak:
