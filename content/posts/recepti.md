@@ -2,6 +2,8 @@
 title: "Recepti"
 date: 2019-12-04T13:19:32+01:00
 draft: false
+featured_image: "images/recept1.jpg"
+description: "Recepti za vase bolje zdravlje."
 ---
 
 Ulje smilja mozete koristi na desitine razlicitih nacina za primenu na kozi, a mi vam donosimo par jednostvnih recepata za pocekak:

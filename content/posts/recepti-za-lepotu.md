@@ -2,6 +2,8 @@
 title: "Recepti Za Lepotu"
 date: 2019-12-04T14:37:37+01:00
 draft: false
+featured_image: "images/lepa_devojka.jpg"
+description: "neka koza bude nezna"
 ---
 
 ## Hranjivi serum za lice:

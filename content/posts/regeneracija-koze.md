@@ -2,6 +2,8 @@
 title: "Regeneracija Koze"
 date: 2019-12-04T14:12:46+01:00
 draft: false
+featured_image: "images/skin1.jpg"
+description: "Da vasa koza postane cistija."
 ---
 
 Cvet smilja sadrzi flavonoide, etansko ulje, ftalide, skopoletin, umbeliferon, eskuletin, piranonske derivate, arenarin, tanine i gorke supstance. Svi ovi nazivi koji saplicu jezik su veoma, veoma korisni za celije koznog tkiva kazu strucnjaci.

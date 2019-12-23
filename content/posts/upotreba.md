@@ -2,6 +2,8 @@
 title: "Upotreba"
 date: 2019-12-04T13:07:47+01:00
 draft: false
+featured_image: "images/oil1.jpg"
+description: "Kako vam sve ulje od smilja pomaze?"
 ---
 
 # Ulje od smilja
