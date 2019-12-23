@@ -3,69 +3,69 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/posts/</loc>
+    <loc>https://smilje.rs/posts/</loc>
     <lastmod>2019-12-04T14:37:37+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/posts/recepti-za-lepotu/</loc>
+    <loc>https://smilje.rs/posts/recepti-za-lepotu/</loc>
     <lastmod>2019-12-04T14:37:37+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/</loc>
+    <loc>https://smilje.rs/</loc>
     <lastmod>2019-12-04T14:37:37+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/posts/regeneracija-koze/</loc>
+    <loc>https://smilje.rs/posts/regeneracija-koze/</loc>
     <lastmod>2019-12-04T14:12:46+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/posts/recepti/</loc>
+    <loc>https://smilje.rs/posts/recepti/</loc>
     <lastmod>2019-12-04T13:19:32+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/posts/upotreba/</loc>
+    <loc>https://smilje.rs/posts/upotreba/</loc>
     <lastmod>2019-12-04T13:07:47+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/posts/lekovitost/</loc>
+    <loc>https://smilje.rs/posts/lekovitost/</loc>
     <lastmod>2019-12-04T12:54:16+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/posts/smilje/</loc>
+    <loc>https://smilje.rs/posts/smilje/</loc>
     <lastmod>2019-12-04T12:31:23+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://smilje.rs/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://smilje.rs/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
